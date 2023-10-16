@@ -1,3 +1,5 @@
+## Definiciones de cada apartado de docker compose
+
 bind9: Nombre del servicio. En este caso, se refiere a un servidor DNS BIND9.
 
 image: Especifica la imagen de Docker que se utilizará para crear el contenedor del servicio. En este caso, se está utilizando la imagen "internetsystemsconsortium/bind9:9.16", que es una imagen de BIND9 en la versión 9.16.
